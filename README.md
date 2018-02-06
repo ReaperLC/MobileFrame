@@ -1,4 +1,4 @@
-# MobileFrame
+# MobileFrame  项目搭建时的基本目录结构
 
 项目目录
 ├── ThirdLib（三方库）
